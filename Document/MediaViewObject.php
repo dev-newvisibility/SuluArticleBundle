@@ -51,7 +51,7 @@ class MediaViewObject
     protected $formats = '{}';
 
     /**
-     * @var string
+     * @var string|null
      *
      * @Property(type="keyword")
      */
